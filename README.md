@@ -9,20 +9,22 @@ Sounds like a challenge you want to tackle? Let's dive into it! 🤓
 ## Table of Contents
 
 - [The challenge](#the-challenge) ⚽️
-- [The requirements](#the-requirements)
-  - [Authenticating users (simple approach)](#authenticating-users-simple-approach) 🔓
+- [The requirements](#the-requirements) 
   - [The UI](#the-ui) 🖥️
-  - [Real-time updates](#real-time-updates) ⏱️
+  - [Authenticating users (simple approach)](#authenticating-users-simple-approach) 🔓
   - [Communities](#communities) 🙋‍♀️🙋‍♂️
   - [Community Leaderboards](#community-leaderboards) 📈
   - [Pagination of the leaderboard](#pagination-of-the-leaderboard) 🖱️
+  - [Real-time updates](#real-time-updates) ⏱️
   - [Dashboard](#dashboard) 📊
   - [Pinning friends](#pinning-friends) 📌
   - [Persisting data](#persisting-data) 💽
   - [Want to be extra fancy?](#want-to-be-extra-fancy) 💅
 - [We support you with...](#we-support-you-with)
-  - [List of games of the European Championship 2024](#list-of-games-of-the-european-championship-2024) ??
-  - [The logic to calculate the points for the users](#the-logic-to-calculate-the-points-for-the-users) ??
+  - [List of games of the European Championship 2024](#list-of-games-of-the-european-championship-2024) 🏆
+  - [The logic to calculate the points for the users](#the-logic-to-calculate-the-points-for-the-users) 🧮
+- [How do I hand in my project?](#how-do-i-hand-in-my-project) 🚀
+  - [Questions?](#questions) ❓
 
 ## The challenge
 
