@@ -227,6 +227,8 @@ Let's say the game is "Deutschland" vs. "Schottland" and the user bets 3:1 for "
 
 Another example, the user bets 2:0 for "Deutschland" and the game ends 3:1 for "Deutschland". The user gets 6 points for the correct goal difference.
 
+*Important*: this rule only applies for non-draws. If the user bets 2:2 and the game ends 3:3, the user should get 4 points.
+
 **4 points for the correct tendency 🙂**
 
 The user gets 4 points for the correct tendency if the user bets 2:1 for "Deutschland" and the game ends 3:1 for "Deutschland".
