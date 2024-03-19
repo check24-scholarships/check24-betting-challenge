@@ -249,7 +249,7 @@ Also, if the user forgets to bet on a game, the user gets 0 points.
 
 ## How do I hand in my project?
 
-Create a private GitHub repository and commit your code there. Provide READ permissions to messengerchallenge@check24.de then, so that we can see what you have been building. When you hand in your application for the scholarship on our scholarship website include the link to your GitHub repository.
+Create a private GitHub repository and commit your code there. Provide READ permissions to gendev@check24.de then, so that we can see what you have been building. When you hand in your application for the scholarship on our scholarship website include the link to your GitHub repository.
 
 What should be included:
 
@@ -262,4 +262,4 @@ So, what else? Have fun! We're looking forward to hearing from you! 😎
 <a href="https://check24-5th-gendev.vpetritz.net">Click here to start the challenge and access the datasets 🚀</a>
 
 ### Questions?
-In case of any questions, contact messengerchallenge@check24.de.
+In case of any questions, contact gendev@check24.de.
