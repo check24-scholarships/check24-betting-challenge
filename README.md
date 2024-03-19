@@ -56,9 +56,9 @@ You don't need to come up with something fancy for the authentication of the use
 
 You could let the user select a username and that's it.
 Once the user wants to log in, simply ask for his username, not even a password.
+We don't want you to focus too much on this part during the challenge.
 
-No email verification or password reset is needed at all.
-It could be that simple. **You decide, were to put the focus on.**
+**Important: a username is not changeable.**
 
 ### Communities
 
@@ -106,6 +106,12 @@ As a user I want to be able to navigate before my and after the top positions in
 
 On every click there should pop up additional 10 users on the specific positions. If there are no users on the next "page", the button should be hidden.
 
+### Betting
+
+Betting is enabled until the game starts. Once the game starts, the user should not be able to bet on the game anymore.
+
+There is only one thing the user can bet on: the result of the game. The user should be able to bet on the result of the game by entering the number of goals for the home team and the number of goals for the away team.
+
 ### Real-time updates
 
 It's quite important to note that the European Championship 2024 is a big event and the application should be able to handle a lot of users. Users should have the feeling that your application can provide near-to-real-time updates of the standings.
@@ -128,8 +134,13 @@ This sneak preview consists of:
 Which sums up to 7 users in total in these sneak preview leaderboards.
 
 Make sure to think of these scenarios:
-- the logged-in user can be part of the top 3 users of the community (no duplicates in the leaderboard)
-- the logged-in user can be on the last place of the community (no duplicates in the leaderboard)
+- the logged-in user can be part of the top 3 users of the community (no duplicates in the leaderboard) *
+- the logged-in user can be on the last place of the community (no duplicates in the leaderboard) *
+- ranks are determined like this: 1, 1, 1, 4
+- sort by users registration date when points are equal
+- when community has less than 7 users: show all the users who are part of the community
+
+* you will still need to return 7 users in total. This means you have to "fill out" your preview by showing more users around the logged-in user.
 
 The following screenshot shows a possible sneak preview of the community leaderboards:
 
@@ -143,11 +154,11 @@ By pinning friends of yours within a community leaderboard, you should be able t
 
 ### Persisting data
 
-Make sure to persist the data of the users, the communities, the bets, and the games. You can use a database of your choice to persist the data.
+Make sure to persist the data of the users, the communities, the bets, and the games. You can use a database of your choice to persist the data. After a restart, the leaderboard and all the functionalities should stay the same but startup time is OK.
 
 ### Want to be extra fancy?
 
-[Display a delta of the current standings](./assets/leaderboard-pagination.png) of the participants in the leaderboard. This delta should be calculated based on the last update of the standings and the current standings of the participants.
+[Display a delta of the current standings](./assets/leaderboard-pagination.png) of the participants in the leaderboard. This delta should be calculated based on the standings of yesterday (00:00 o'clock) and the current standings of the participants.
 
 ---
 
