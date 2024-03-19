@@ -169,62 +169,7 @@ Make sure to persist the data of the users, the communities, the bets, and the g
 You will find the participants of the European Championship 2024 at the following URL: https://en.wikipedia.org/wiki/UEFA_Euro_2024#Qualified_teams
 The last qualification games will be played in the end of March 2024, so the list of teams will be complete after that date.
 
-The games of the European Championship 2024 for now are as follows (CSV format):
-
-```csv
-team_home_name;team_away_name;game_starts_at
-Deutschland;Schottland;2024-06-14 19:00:00
-Ungarn;Schweiz;2024-06-15 13:00:00
-Spanien;Kroatien;2024-06-15 16:00:00
-Italien;Albanien;2024-06-15 19:00:00
-tbd;Niederlande;2024-06-16 13:00:00
-Slowenien;Dänemark;2024-06-16 16:00:00
-Serbien;England;2024-06-16 19:00:00
-Rumänien;tbd;2024-06-17 13:00:00
-Belgien;Slowakei;2024-06-17 16:00:00
-Österreich;Frankreich;2024-06-17 19:00:00
-Türkei;tbd;2024-06-18 16:00:00
-Portugal;Tschechische Republik;2024-06-18 19:00:00
-Kroatien;Albanien;2024-06-19 13:00:00
-Deutschland;Ungarn;2024-06-19 16:00:00
-Schottland;Schweiz;2024-06-19 19:00:00
-Slowenien;Serbien;2024-06-20 13:00:00
-Dänemark;England;2024-06-20 16:00:00
-Spanien;Italien;2024-06-20 19:00:00
-Slowakei;tbd;2024-06-21 13:00:00
-tbd;Österreich;2024-06-21 16:00:00
-Niederlande;Frankreich;2024-06-21 19:00:00
-tbd;Tschechische Republik;2024-06-22 13:00:00
-Türkei;Portugal;2024-06-22 16:00:00
-Belgien;Rumänien;2024-06-22 19:00:00
-Schottland;Ungarn;2024-06-23 19:00:00
-Schweiz;Deutschland;2024-06-23 19:00:00
-Albanien;Spanien;2024-06-24 19:00:00
-Kroatien;Italien;2024-06-24 19:00:00
-Niederlande;Österreich;2024-06-25 16:00:00
-Frankreich;tbd;2024-06-25 16:00:00
-England;Slowenien;2024-06-25 19:00:00
-Dänemark;Serbien;2024-06-25 19:00:00
-Slowakei;Rumänien;2024-06-26 16:00:00
-tbd;Belgien;2024-06-26 16:00:00
-tbd;Portugal;2024-06-26 19:00:00
-Tschechische Republik;Türkei;2024-06-26 19:00:00
-2A;2B;2024-06-29 16:00:00
-1A;2C;2024-06-29 19:00:00
-1C;3EDF;2024-06-30 16:00:00
-1B;ADEF;2024-06-30 19:00:00
-2D;2E;2024-07-01 16:00:00
-1F;3ABC;2024-07-01 19:00:00
-1E;ABCD;2024-07-02 16:00:00
-1D;2F;2024-07-02 19:00:00
-W39;W37;2024-07-05 16:00:00
-W41;W42;2024-07-05 19:00:00
-W40;W38;2024-07-06 16:00:00
-W43;W44;2024-07-06 19:00:00
-W45;W46;2024-07-09 19:00:00
-W47;W48;2024-07-10 19:00:00
-W49;W50;2024-07-14 19:00:00
-```
+The games of the European Championship 2024 is part of the dataset repository you can access by clicking the link "Click here to start the challenge and access the datasets 🚀" at the end of this README.
 
 ### The logic to calculate the points for the users
 
