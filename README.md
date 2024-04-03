@@ -32,7 +32,7 @@ Sounds like a challenge you want to tackle? Let's dive into it! 🤓
 
 You'll write an application that allows users to bet on the outcome of the games of the European Championship 2024. The application should be able to handle multiple users, games, bets, and outcomes. The application should be able to display the current standings of the participants.
 
-_The most important_ part is to live update the standings of the participants (users) of your application when a goal is scored or a game ends. This can be done by using a WebSocket connection, polling, or any other method of your choice. Standings should be updated in **real-time** and your application should to handle **up to 2 million active participants**, while 10.000 users are active at the same time observing the current standings.
+_The most important_ part is to live update the standings of the participants (users) of your application when a goal is scored or a game ends. This can be done by using a WebSocket connection, polling, or any other method of your choice. Standings should be updated in **real-time** and your application should be able to handle **up to 2 million active participants**, while 10.000 users are active at the same time observing the current standings.
 
 **We provide you with...**
 
