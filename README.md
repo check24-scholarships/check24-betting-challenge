@@ -1,8 +1,8 @@
-# CHECK24 GenDev Tippspiel Challenge
+# CHECK24 GenDev Betting Challenge
 
 **Note:** This is the challenge for the 5th round of the GenDev Scholarship. We're looking forward to your application - happy coding. 🤓
 
-This coding challenge is about a "Tippspiel" (betting game) for the soon-to-be happening **European Championship 2024**, which takes place in Germany beginning at the 14th of June 2024 and [we as CHECK24 are very excited about](https://www.youtube.com/watch?v=7Xb9gPJjJM8). The goal is to create a simple application that allows you and your friends (and some [more soccer fans](#the-challenge)) to bet on the outcome of the games and to display the current standings of the participants. This can be done creating a console ⌨️, native app 📱 or web 💻 application using your favorite programming language and framework.
+This coding challenge is about a betting game for the soon-to-be happening **European Championship 2024**, which takes place in Germany beginning at the 14th of June 2024 and [we as CHECK24 are very excited about](https://www.youtube.com/watch?v=7Xb9gPJjJM8). The goal is to create a simple application that allows you and your friends (and some [more soccer fans](#the-challenge)) to bet on the outcome of the games and to display the current standings of the participants. This can be done creating a console ⌨️, native app 📱 or web 💻 application using your favorite programming language and framework.
 
 Sounds like a challenge you want to tackle? Let's dive into it! 🤓
 
