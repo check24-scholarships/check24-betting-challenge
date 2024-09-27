@@ -206,8 +206,6 @@ What should be included:
 
 So, what else? Have fun! We're looking forward to hearing from you! 😎
 
-<a href="https://check24-5th-gendev.vpetritz.net">Click here to start the challenge and access the datasets 🚀</a>
-
 ### Questions?
 In case of any questions, contact gendev@check24.de.
 
